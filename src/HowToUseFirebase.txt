@@ -1,0 +1,6 @@
+how to use firebase
+goto =console firebase google->goto console->ceate a project
+click on web icon</>  to get started
+and register your app
+goto ur project settings
+then goto cloud firestore
